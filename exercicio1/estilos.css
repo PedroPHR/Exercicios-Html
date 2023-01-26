@@ -1,0 +1,57 @@
+body {
+    margin: 0px; 
+    padding: 0px; 
+  
+ }
+
+
+
+ .esqcima p{
+    margin: 0px;
+    position: fixed;
+    top: 0px;
+    width: 8vw;
+    height: 10vh;
+    left: 0px;
+    background: red;
+    font-size: x-large;
+    font-weight: 800;
+ }
+
+ .esqbaixo p{
+    margin: 0px;
+    position: fixed;
+    bottom:0;
+    width: 8vw;
+    height: 10vh;
+    background: green;
+    font-size: x-large;
+    font-weight: 800;
+ }
+
+ .dircima p{
+    margin: 0px;
+    position:fixed;
+    top:0; 
+    right: 0px;
+    width: 8vw;
+    height: 10vh;
+    background: green;
+    font-size: x-large;
+    font-weight: 800;
+
+ }
+ 
+ .dirbaixo p{
+    margin: 0px;
+    position:fixed;
+    bottom: 0;
+    right: 0px;
+    width: 8vw;
+    height: 10vh;
+    background: green;
+    font-size: x-large;
+    font-weight: 800;
+
+ }
+ 
